@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boolean-jason
 - 👀 I’m interested in becoming a web developer by learning different web design languages
-- 🌱 I’m currently learning html, css and java but I want to learn PHP, Python and lots more :)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html, css and javascript but I want to learn PHP, Python and lots more :)
+- 💞️ I’m looking to collaborate on anything you have to offer
 - 📫 How to reach me Jasonhuynhle@gmail.com
 
 <!---
